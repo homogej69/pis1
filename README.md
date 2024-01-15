@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Moje Stránka s Obrázkem a Písničkou</title>
-</head>
 <body>
 
   <h1>Skákal pes</h1>
